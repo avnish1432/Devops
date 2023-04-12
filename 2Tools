@@ -1,0 +1,18 @@
+- GitLab: GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, 
+CI/CD, and more. Self-host GitLab on your own servers, in a container, or on a cloud provider.
+
+- GitHub: GitHub is an Internet hosting service for software development and version control using Git.  It provides the distributed 
+ version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration.
+ 
+- Jira: Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
+The product name comes from the second and third syllables of the Japanese word pronounced as Gojira, which is Japanese for Godzilla. 
+The name originated from a nickname Atlassian developers used to refer to Bugzilla, which was previously used internally for bug-tracking.
+ 
+ Monitoring tools like 
+ 
+ - Grafana: Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources. There is also a licensed Grafana Enterprise version with additional capabilities available as a self-hosted installation or an account on the Grafana Labs cloud service. 
+ 
+ - Salesforce SFDC: SFDC stands for Salesforce.com, which is a cloud-based customer relationship management (CRM) software. 
+ It is one of the most popular and widely used CRM software in the market, and is used by businesses of all sizes to manage 
+ their customer data,  sales processes, marketing campaigns, and customer service activities. 
+ The acronym SFDC is often used as a shorthand for Salesforce.com in discussions, literature, and online forums related to the software.
