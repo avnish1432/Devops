@@ -10,7 +10,10 @@ The name originated from a nickname Atlassian developers used to refer to Bugzil
  
  Monitoring tools like 
  
- - Grafana: Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources. There is also a licensed Grafana Enterprise version with additional capabilities available as a self-hosted installation or an account on the Grafana Labs cloud service. 
+ - Grafana: Grafana is a multi-platform open source analytics and interactive visualization web application. 
+	It provides charts, graphs, and alerts for the web when connected to supported data sources. 
+	There is also a licensed Grafana Enterprise version with additional capabilities available as a self-hosted installation or an account 
+	on the Grafana Labs cloud service. 
  
  - Salesforce SFDC: SFDC stands for Salesforce.com, which is a cloud-based customer relationship management (CRM) software. 
  It is one of the most popular and widely used CRM software in the market, and is used by businesses of all sizes to manage 
